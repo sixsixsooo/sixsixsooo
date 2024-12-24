@@ -14,10 +14,6 @@
   </div>
 </div>
 
-<h3 align="center">Projects</h3>
-<p align="center">
-  <a href="https://github.com/lostdd/educonnect-frontend" target="_blank">Hacaton</a> | 
-</p>
 <h3 align="center">About Me</h3>
 <p align="center">
   Привет! Я разработчик, специализирующийся на веб-технологиях. Увлекаюсь созданием интуитивно понятных интерфейсов и разработкой смарт-контрактов.
