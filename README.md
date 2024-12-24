@@ -23,5 +23,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sixsixsooo&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-  <img width="100%" align="right" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
+  <img width="55%" align="right" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
 </p>
