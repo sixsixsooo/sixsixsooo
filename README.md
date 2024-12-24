@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/NEXTJS-090909?style=for-the-badge&logo=redux&logoColor=Green">
-    <img src="https://img.shields.io/badge/Solidity-090909?style=for-the-badge&logo=redux&logoColor=Green">
+    <img src="NEXTJS-090909?style=for-the-badge&logo=redux&logoColor=Green">
+    <img src="Solidity-090909?style=for-the-badge&logo=redux&logoColor=Green">
   </div>
 </div>
 
