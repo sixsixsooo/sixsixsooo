@@ -19,19 +19,6 @@
   Привет! Я разработчик, специализирующийся на веб-технологиях. Увлекаюсь созданием интуитивно понятных интерфейсов и разработкой смарт-контрактов.
 </p>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5" | />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1DA1F2" | />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-090909?style=for-the-badge&logo=about.me&logoColor=white" />
-  </a>
-</p>
-
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sixsixsooo&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
