@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-  <img src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=735212707942111913" height="354" width="450" frameborder="0" scrolling="no" ></iframe>" alt="vampire-theme-animation"/>
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=735212707942111913" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
 </p>
 
 <h2 align="center"> ✨ About Me ✨</h2>
