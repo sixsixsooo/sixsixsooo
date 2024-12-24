@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=735212707942111913" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
+  <img src="https://raw.githubusercontent.com/sixsixsooo/gifElements/main/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 1000px; height: auto;">
 </p>
 
 <h2 align="center"> ✨ About Me ✨</h2>
