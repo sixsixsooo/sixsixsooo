@@ -62,8 +62,6 @@
 
 <div align="center">
 
-![Dashboard](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=52780516&image_size=auto)
-
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=sixsixsooo&langs_count=10&hide_border=true&layout=compact&theme=dracula)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sixsixsooo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
