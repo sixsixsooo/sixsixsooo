@@ -22,10 +22,10 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+    <img src="https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0077B5" | />
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
+    <img src="https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1DA1F2" | />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-090909?style=for-the-badge&logo=about.me&logoColor=white" />
