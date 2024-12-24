@@ -1,5 +1,7 @@
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-sixsixsooo-181717?style=for-the-badge&logo=github)](https://github.com/sixsixsooo)
+  <a href="https://github.com/sixsixsooo/gifElements">
+    <img src="https://raw.githubusercontent.com/sixsixsooo/gifElements/main/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: auto;">
+  </a>
 </p>
 
 <h2 align="center"> ✨ About Me ✨</h2>
