@@ -12,9 +12,16 @@
     <img src="https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
   </div>
-</p>
+  <div>
+    <img src="https://img.shields.io/badge/NEXTJS-090909?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-090909?style=for-the-badge&logo=redux&logoColor=white">
+  </div>
+</div>
 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sixsixsooo&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img width="100%" align="right" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
 </p>
