@@ -1,5 +1,3 @@
-<h1 align="center">Welcome</h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sixsixsooo/gifElements/main/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: auto;">
 </p>
@@ -43,8 +41,6 @@
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=sixsixsooo&langs_count=10&hide_border=true&layout=compact&theme=dracula)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sixsixsooo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
-
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=sixsixsooo&layout=compact&hide_border=true&theme=dracula)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=sixsixsooo&theme=dracula&column=5&no-frame=true)
 
