@@ -1,7 +1,7 @@
 <h1 align="center">Welcome</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sixsixsooo/gifElements/main/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 1000px; height: auto;">
+  <img src="https://raw.githubusercontent.com/sixsixsooo/gifElements/main/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: auto;">
 </p>
 
 <h2 align="center"> ✨ About Me ✨</h2>
