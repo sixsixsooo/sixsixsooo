@@ -33,5 +33,5 @@
 <h2 align="center"># Stats 🚀</h2>
 
 <div align="center">
-  <img width="55%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
+  <img width="80%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
 </div>
