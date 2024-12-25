@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sixsixsooo/gifElements">
+  <a href="https://github.com/sixsixsooo/sixsixsooo/blob/main/GifElements/headerGif.gif">
     <img src="https://github.com/sixsixsooo/sixsixsooo/blob/main/GifElements/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: auto;">
   </a>
 </p>
