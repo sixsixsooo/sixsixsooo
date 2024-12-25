@@ -34,11 +34,11 @@
 
 <div align="center">
   
-<img width="55%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
-<br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sixsixsooo&langs_count=10&hide_border=true&layout=compact&theme=dracula" style="background: linear-gradient(90deg, #70a4fc, #bf91f3, #319990); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Skills</a>
-<br>
-<a href="https://github-readme-stats.vercel.app/api?username=sixsixsooo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula" style="background: linear-gradient(90deg, #70a4fc, #bf91f3, #319990); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Stats</a>
-<br>
-<a href="https://github-readme-activity-graph.vercel.app/graph?username=sixsixsooo&area=true&hide_border=true&theme=dracula" style="background: linear-gradient(90deg, #70a4fc, #bf91f3, #319990); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Activity</a>
+  <img width="55%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
+
+  ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=sixsixsooo&langs_count=10&hide_border=true&layout=compact&theme=dracula)
+
+  ![Stats](https://github-readme-stats.vercel.app/api?username=sixsixsooo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
+
+  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sixsixsooo&area=true&hide_border=true&theme=dracula)
 </div>
