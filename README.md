@@ -40,4 +40,6 @@
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sixsixsooo&area=true&hide_border=true&theme=dracula)
 
+<img width="55%" align="right" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
+
 </div>
