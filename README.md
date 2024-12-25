@@ -33,6 +33,8 @@
 <h2 align="center"># Stats 🚀</h2>
 
 <div align="center">
+  
+<img width="55%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
 
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=sixsixsooo&langs_count=10&hide_border=true&layout=compact&theme=dracula)
 
@@ -40,6 +42,5 @@
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sixsixsooo&area=true&hide_border=true&theme=dracula)
 
-<img width="55%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
 
 </div>
