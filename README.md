@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://github.com/sixsixsooo/sixsixsooo/blob/main/GifElements/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: 200px;">
+    <img src="https://github.com/sixsixsooo/sixsixsooo/blob/main/GifElements/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 400px; auto;">
   </a>
 </p>
 
