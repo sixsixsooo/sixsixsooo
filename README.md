@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sixsixsooo/gifElements">
-    <img src="https://drive.google.com/file/d/1m-gpLjqJuerM3QzIjLdEPsM6OmTYjhDO" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: auto;">
+    <img src="https://drive.google.com/file/d/1m-gpLjqJuerM3QzIjLdEPsM6OmTYjhDO/view?usp=sharing" alt="Welcome GIF" style="width: 100%; max-width: 600px; height: auto;">
   </a>
 </p>
 
