@@ -34,6 +34,4 @@
 
 <div align="center">
   <img width="55%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
-  ----------------------------------------------------------------------------------------------------------------------
-  ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sixsixsooo&area=true&hide_border=true&theme=dracula)
 </div>
