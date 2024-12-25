@@ -30,12 +30,6 @@
   <img src="https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<h2 align="center">🌌 Recent Projects 🌌</h2>
-<p align="center">
-  <a href="https://github.com/lostdd/educonnect-frontend">First Hackathon Project</a> • 
-  <a href="https://github.com/sixsixsooo/Olympic">First olympic</a> • 
-</p>
-
 <h2 align="center"># Stats 🚀</h2>
 
 <div align="center">
@@ -43,8 +37,6 @@
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=sixsixsooo&langs_count=10&hide_border=true&layout=compact&theme=dracula)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sixsixsooo&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sixsixsooo&theme=dracula&column=5&no-frame=true)
 
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=sixsixsooo&area=true&hide_border=true&theme=dracula)
 
