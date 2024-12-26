@@ -6,7 +6,7 @@
 
 <h2 align="center"> ✨ About Me ✨</h2>
 <p align="center">
-  I am a Full-stack developer deeply immersed in the mysteries of code and the arcane art of database design. My current focus lies in mastering NestJS and its dependencies while building robust applications powered by SQL databases. With a penchant for crafting elegant, scalable solutions.
+  I am a Full-stack developer deeply immersed in the mysteries of code and the arcane art of database design. My current focus lies in mastering NestJS, NestJS and its dependencies while building robust applications powered by SQL databases. With a penchant for crafting elegant, scalable solutions.
 </p>
 
 <h2 align="center">Technologies & Tools</h2>
