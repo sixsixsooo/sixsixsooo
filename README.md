@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
-<h2 align="center"># Stats 🚀</h2>
+<h2 align="center"> Stats 🚀</h2>
 
 <div align="center">
   <img width="80%" align="center" src="https://streak-stats.demolab.com/?user=sixsixsooo&theme=tokyonight" alt="mystreak"/>
