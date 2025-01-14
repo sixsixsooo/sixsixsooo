@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=764ABC">
   <img src="https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=solidity&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032">
   <img src="https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=white">
