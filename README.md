@@ -1,7 +1,7 @@
 <p align="center">
   <a>
     <img src="https://github.com/sixsixsooo/sixsixsooo/blob/main/GifElements/headerGif.gif" alt="Welcome GIF" style="width: 100%; max-width: 400px; auto;">
-  </a>dsds
+  </a>
 </p>
 
 <h2 align="center"> ✨ About Me ✨</h2>
